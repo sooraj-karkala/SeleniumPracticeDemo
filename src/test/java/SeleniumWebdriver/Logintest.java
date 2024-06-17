@@ -51,11 +51,11 @@ public class Logintest {
 		
 		if(a.equals(e))
 		{
-			System.out.println("Verified the title as"+" "+a);
+			System.out.println("Verified the app title as"+" "+a);
 		}
 		else 
 		{
-			System.out.println("Unable to verify the title");
+			System.out.println("Unable to verify the app title");
 		}
 		
 		
