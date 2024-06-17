@@ -1,2 +1,2 @@
-# SeleniumPracticeDemo
-WebDriverMavenProject
+# About Me
+My name is Sooraj
